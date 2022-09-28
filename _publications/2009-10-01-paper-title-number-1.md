@@ -8,7 +8,6 @@ venue: 'Deep Sea Research Part II: Topical Studies in Oceanography'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Paul, Nihar, and Jai Sukhatme. (2020). &quot;Seasonality of surface stirring by geostrophic flows in the Bay of Bengal.&quot; <i>Deep Sea Research Part II: Topical Studies in Oceanography</i>, 172, 104684.'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
