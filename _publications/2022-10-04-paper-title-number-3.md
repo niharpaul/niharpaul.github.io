@@ -11,4 +11,4 @@ citation: 'Paul, N., Sukhatme, J., Gayen, B. , & Sengupta, D. (2022). &quot;Eddy
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation:  Paul, N., Sukhatme, J., Gayen, B. , & Sengupta, D. (2022) "Eddy-freshwater Interaction using Regional Ocean Modeling System in the Bay of Bengal." <i>submitted to JPO</i>.
+Recommended citation:  Paul, N., Sukhatme, J., Gayen, B. , & Sengupta, D. (2022). "Eddy-freshwater Interaction using Regional Ocean Modeling System in the Bay of Bengal." <i>submitted to JPO</i>.
