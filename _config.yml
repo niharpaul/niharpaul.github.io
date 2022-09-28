@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nihar Paul"
   avatar           : "profile.png"
-  bio              : "Physical Oceanographer"
+  bio              : "Post-doctoral researcher"
   location         : "Chennai, India"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://niharpaul.github.io/"
   google_plus      :
   keybase          :
   instagram        :
