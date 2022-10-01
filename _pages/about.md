@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nihar Paul. Currently, I am a post-doctoral researcher at Indian Institute of Technology, Madras, India working wirh Prof. Manikandan Mathur at the. The present area of research deals with lagrangian coherent structures and internal waves. I have completed my Ph.D. on 6th September, 2022 from Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bengalore, India. A  copy of my thesis can be found [here](https://etd.iisc.ac.in/handle/2005/5855). My work is focussed on understanding primarily dynamics of mesoscale eddies, application of non-linear dynamics in the context of ocean, air-sea interaction, shallow water equation, rotating and stratified turbulence, and Ocean-modeling. Prioir to complete  
+My name is Nihar Paul. Currently, I am a post-doctoral researcher in the aerospace engineering department at the Indian Institute of Technology, Madras, India working with Prof. Manikandan Mathur. The present area of research deals with lagrangian coherent structures and internal waves. I completed my Ph.D. on 6th September 2022 from the Centre for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bengaluru, India. A  copy of my thesis can be found [here](https://etd.iisc.ac.in/handle/2005/5855). My work and research interests primarily focus on understanding mesoscale eddies' dynamics, application of non-linear dynamics in the context of geophysical flows, air-sea interaction, shallow water equation, rotating and stratified turbulence, and Ocean-modeling. Prior to completing my graduate studies, I completed my Master of Technology in Climate Science and Bachelor of Technology in Electronics and Communication Engineering.   
 
 Personal Background
 ======
