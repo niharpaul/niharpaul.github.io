@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doctoral researcher, oceanographer, engineer, and musician"
   location         : "Chennai, India"
-  employer         :
+  employer         : "Department of Aerospace Engineering, Indian Institute of Technology, Madras, India."
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BFMsokkAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Nihar-Paul-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "niharpaul.github.io/"
+  github           : "niharpaul"
   google_plus      :
   keybase          :
   instagram        :
