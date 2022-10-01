@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doctoral researcher, oceanographer, engineer, and musician"
   location         : "Chennai, India"
-  employer         : "Department of Aerospace Engineering, Indian Institute of Technology, Madras, India."
+  employer         :  #"Department of Aerospace Engineering, Indian Institute of Technology, Madras, India."
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BFMsokkAAAAJ"
   email            :
