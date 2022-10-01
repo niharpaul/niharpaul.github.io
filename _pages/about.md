@@ -17,5 +17,4 @@ I am a native of West Bengal, India, and I grew up in city Kolkata. Besides acad
 
 Coming soon
 ---
-So far, I have been busy with my graduate studies, and I firmly believe in contributing to the open-source software community. I will start contributing to my GitHub pages soon.  
-
+So far, I have been busy with my graduate studies, and I firmly believe in contributing to the open-source software community. Some of the coding languages I am very familiar with are Matlab, Python, C, and Fortran. I will start contributing to my GitHub pages soon. 
