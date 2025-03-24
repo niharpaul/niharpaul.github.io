@@ -1,6 +1,6 @@
 ---
 title: "EKAMSAT CRUISE 2024-Leg 1"
-excerpt: "With Professor Amit Tandon <br/><img src='/images/pic_ekamsat_01.jpeg'>"
+excerpt: "With Professor Amit Tandon and Dr. Jayesh Phadtade <br/><img src='/images/pic_ekamsat_01.jpeg'>"
 collection: Portfolio
 ---
 
