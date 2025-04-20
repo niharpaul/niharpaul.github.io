@@ -17,8 +17,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-#    url: /cv/
-     url: /files/cv_nihar_paul_apr_25.pdf
+    url: /cv/
+#    url: /files/cv_nihar_paul_apr_25.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
