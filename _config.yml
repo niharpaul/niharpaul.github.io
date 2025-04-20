@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nihar Paul"
+title                    : "Nihar's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nihar Paul"
 description              : &description "personal description"
 url                      : https://niharpaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
