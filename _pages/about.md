@@ -12,5 +12,5 @@ My name is Nihar Paul and I am a Postdoctoral Investigator at the [Department of
 Personal background
 ---
 
-I am a native of West Bengal, India, and grew up in the city of joy, Kolkata. Besides academics, I am interested in music, playing football, and exploring places.
+I am a native of West Bengal, India, and grew up in the city of joy, Kolkata. Besides academics, I am interested in playing music, football, and exploring places.
 
