@@ -84,11 +84,11 @@ author:
   avatar           : "IMG_20160925_212030.jpg"
   bio              : "Postdoctoral Investigator"
   location         : "Woods Hole, Massachusetts"
-  employer         :  #"Department of Physical Oceanography, Woods Hole Oceanographic Institution, Woods Hole, Massachusetts."
+  employer         : "Department of Physical Oceanography, Woods Hole Oceanographic Institution, Woods Hole, Massachusetts."
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BFMsokkAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Nihar-Paul-2"
+  researchgate     : "https://www.researchgate.net/profile/Nihar-Paul-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "niharpaul_86"
   vine             :
   weibo            :
   xing             :
