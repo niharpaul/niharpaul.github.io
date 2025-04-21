@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research profile"
+title: ":wave: Research profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
