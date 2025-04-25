@@ -12,10 +12,12 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
- - title: "Blog Posts"
+      
+      
+  - title: "Blog Posts"
  #  url: /year-archive/
     url: /posts/
+
   - title: "CV"
 #    url: /cv/
     url: /files/cv_nihar_paul_apr_2025.pdf
