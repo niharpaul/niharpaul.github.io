@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Publications"
 #    url: /publications/
@@ -15,7 +15,7 @@ main:
         
  - title: "Blog Posts"
  #  url: /year-archive/
-    
+    url: /posts/
   - title: "CV"
 #    url: /cv/
     url: /files/cv_nihar_paul_apr_2025.pdf
