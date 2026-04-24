@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋🏼 My name is [Nihar Paul](https://azimpremjiuniversity.edu.in/people/nihar-paul), and I am an Assistant Professor at [Azim Premji University, Bengaluru, India](https://azimpremjiuniversity.edu.in/). I also serve as a Guest Investigator at the Department of Physical Oceanography, [Department of Physical Oceanography, Woods Hole Oceanographic Institution, Massachusetts, US](https://www.whoi.edu/).
+👋🏼 My name is [Nihar Paul](https://azimpremjiuniversity.edu.in/people/nihar-paul), and I am an Assistant Professor at the School of Climate Change and Sustainability, [Azim Premji University, Bengaluru, India](https://azimpremjiuniversity.edu.in/). I also serve as a Guest Investigator at the Department of Physical Oceanography, [Department of Physical Oceanography, Woods Hole Oceanographic Institution, Massachusetts, US](https://www.whoi.edu/).
 
 My research focuses on the fundamental processes governing ocean dynamics. Broadly, I am interested in mesoscale eddy dynamics, nonlinear dynamics in geophysical flows, air–sea interaction processes, submesoscale turbulence and internal waves, shallow-water systems, rotating and stratified turbulence, machine learning applications in oceanography, and ocean modelling.
 
