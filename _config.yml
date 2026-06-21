@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nihar's Homepage"
+title                    : "Nihar Paul"
 title_separator          : "-"
 name                     : &name "Nihar Paul"
-description              : &description "personal description"
+description              : &description "Assistant Professor | Physical Oceanography | Climate Dynamics"
 url                      : https://niharpaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niharpaul/niharpaul.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nihar Paul"
   avatar           : "dp_profile_np.jpeg"
-  bio              : "Assistant Professor"
-  location         : "Bengaluru, IN"
+  bio              : "Physical Oceanographer studying ocean dynamics, near-inertial waves, submesoscale processes, and climate variability."
+  location         : "Bengaluru, Karnataka, India"
   employer         : "Azim Premji University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BFMsokkAAAAJ"
