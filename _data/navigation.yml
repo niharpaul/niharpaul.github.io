@@ -1,8 +1,28 @@
 # main links
+
 main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+    
+# main:
+#  - title: "Publications"
 #    url: /publications/
-    url: https://scholar.google.com/citations?user=BFMsokkAAAAJ&hl=en&oi=ao 
+#    url: https://scholar.google.com/citations?user=BFMsokkAAAAJ&hl=en&oi=ao 
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -13,13 +33,13 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "CV"
+#  - title: "CV"
 #    url: /cv/
-    url: /files/cv_nihar_paul_dec_25.pdf
+#    url: /files/cv_nihar_paul_dec_25.pdf
 
-  - title: "Blog Posts"
- #  url: /year-archive/
-    url: /year-archive/
+#  - title: "Blog Posts"
+#  url: /year-archive/
+#  url: /year-archive/
 
 #  - title: "Guide"
 #    url: /markdown/
