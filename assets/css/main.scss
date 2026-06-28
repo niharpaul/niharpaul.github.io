@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import
+  "layout/sidebar",
+  "layout/json_cv";
+
+/* ===== Custom CSS ===== */
+
+.page__content {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.page__title {
+  font-size: 2.3rem;
+}
