@@ -11,16 +11,16 @@ My research focuses on physical oceanography, geophysical fluid dynamics, and cl
 
 Submesoscale Ocean Dynamics
 
-(Insert description and figures here.)
+Insert description and figures here.
 
 Near-Inertial Waves
 
-(Insert description and figures here.)
+Insert description and figures here.
 
 Equatorial Ocean Dynamics
 
-(Insert description and figures here.)
+Insert description and figures here.
 
 Ocean Observations
 
-(Insert description and cruise photos here.)
+Insert description and cruise photos here.
