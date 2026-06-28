@@ -30,8 +30,8 @@ My long-term research goal is to improve the understanding and prediction of oce
 - Climate Variability
 
 ## Recent News
-2026 – Joined Azim Premji University as Assistant Professor.
-2026 – Paper accepted in Geophysical Research Letters.
-2025 – Participated in the Indo–US ASTRAL-EKAMSAT oceanographic research cruise.
+- 2026 – Joined Azim Premji University as Assistant Professor.
+- 2026 – Paper accepted in Geophysical Research Letters.
+- 2025 – Participated in the Indo–US ASTRAL-EKAMSAT oceanographic research cruise.
 2024–2026 – Postdoctoral Investigator at the Woods Hole Oceanographic Institution (WHOI), USA.
 
