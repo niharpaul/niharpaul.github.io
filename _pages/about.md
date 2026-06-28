@@ -6,9 +6,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/banner_np.png
 ---
+
+<p align="center">
+  <img src="/images/banner_np.png"
+       alt="Ocean banner"
+       style="width:100%; border-radius:8px;">
+</p>
 
 ## About
 
