@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: /images/3953273590_704e3899d5_m.jpg
+  image: /images/banner_np.png
 ---
 
 ## About
