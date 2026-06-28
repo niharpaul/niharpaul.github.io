@@ -17,7 +17,7 @@ redirect_from:
 
 ## About
 
-I am an Assistant Professor in the School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India. My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability.
+I am an Assistant Professor in the [School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India](https://azimpremjiuniversity.edu.in/cccs). My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability.
 
 My research combines high-resolution numerical modeling, theoretical analyses, satellite observations, and in situ ocean measurements to investigate submesoscale ocean dynamics, near-inertial waves, equatorial wave dynamics, and upper-ocean mixing. I am particularly interested in understanding how interactions across scales influence vertical transport, tracer exchange, energy transfer, and regional climate variability in the Indian Ocean.
 
