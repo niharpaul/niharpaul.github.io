@@ -15,12 +15,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="/images/banner_np.png"
-       alt="Ocean banner"
-       style="width:100%; border-radius:8px;">
-</p>
-
 ## About
 
 I am an Assistant Professor in the School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India. My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability.
