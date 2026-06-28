@@ -19,15 +19,15 @@ Prior to joining Azim Premji University, I was a Postdoctoral Investigator at th
 My long-term research goal is to improve the understanding and prediction of ocean circulation and climate variability by integrating theory, numerical modeling, ocean observations, and emerging data-driven approaches.
 
 ## Research Interests
-Physical Oceanography
-Geophysical Fluid Dynamics
-Submesoscale Ocean Dynamics
-Near-Inertial Waves
-Equatorial Ocean Dynamics
-Ocean Mixing and Tracer Transport
-Numerical Ocean Modeling
-Ocean Observations and Field Experiments
-Climate Variability
+- Physical Oceanography
+- Geophysical Fluid Dynamics
+- Submesoscale Ocean Dynamics
+- Near-Inertial Waves
+- Equatorial Ocean Dynamics
+- Ocean Mixing and Tracer Transport
+- Numerical Ocean Modeling
+- Ocean Observations and Field Experiments
+- Climate Variability
 
 ## Recent News
 2026 – Joined Azim Premji University as Assistant Professor.
