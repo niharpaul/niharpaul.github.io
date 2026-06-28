@@ -4,11 +4,6 @@ permalink: /
 title: "Nihar Paul"
 excerpt: "Assistant Professor"
 author_profile: true
-
-header:
-  overlay_image: banner_np.png
-  overlay_filter: 0.25
-  caption: ""
   
 redirect_from: 
   - /about/
