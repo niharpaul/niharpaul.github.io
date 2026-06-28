@@ -7,7 +7,7 @@ author_profile: true
 
 header:
   overlay_image: banner_np.png
-  overlay_filter: 0.25
+  overlay_filter: 0.2
   caption: ""
   
 redirect_from: 
