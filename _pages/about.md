@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: ""
-excerpt: ""
+title: "Nihar Paul"
+excerpt: "Assistant Professor"
 author_profile: true
 
 header:
