@@ -1,3 +1,11 @@
+---
+title: "Research"
+permalink: /research/
+layout: single
+author_profile: true
+---
+
+
 Research
 
 My research focuses on physical oceanography, geophysical fluid dynamics, and climate dynamics. I combine numerical modeling, theoretical analyses, satellite observations, and field measurements to understand multiscale ocean processes.
