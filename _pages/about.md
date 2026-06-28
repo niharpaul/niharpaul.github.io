@@ -4,6 +4,12 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+
+header:
+  overlay_image: /images/banner_np.png
+  overlay_filter: 0.25
+  caption: ""
+  
 redirect_from: 
   - /about/
   - /about.html
