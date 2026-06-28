@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Nihar Paul"
-excerpt: "Assistant Professor"
+excerpt: "Physical Oceanographer"
 author_profile: true
 
 header:
