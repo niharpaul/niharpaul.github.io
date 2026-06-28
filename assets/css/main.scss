@@ -40,6 +40,13 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* Homepage hero banner */
+.page__hero--overlay {
+    min-height: 500px;
+    background-size: cover;
+    background-position: center center;
+}
+
 /*@import
   "layout/sidebar",
   "layout/json_cv";
