@@ -35,7 +35,7 @@ My long-term research goal is to improve the understanding and prediction of oce
 - AI and Data-Driven Ocean Science
 
 ## Recent News (2026 Onward)
-- **2026** –-- Paper titled "Tracing the Abyssal Water Pathways in the Indian Ocean" accepted in Geophysical Research Letters.
-- **2026** --- Paper titled "Influx of Bay of Bengal waters and stirring trends in the Arabian Sea based on satellite altimetry" accepted in Geophysical Research Letters.
+- **2026** –-- Paper titled ["Tracing the Abyssal Water Pathways in the Indian Ocean"](https://doi.org/10.22541/essoar.175138846.68537835/v1) accepted in Geophysical Research Letters.
+- **2026** --- Paper titled ["Influx of Bay of Bengal waters and stirring trends in the Arabian Sea based on satellite altimetry"](https://doi.org/10.1029/2024GL113884) accepted in Geophysical Research Letters.
 - **2026** --- Joined Azim Premji University as an Assistant Professor.
 
