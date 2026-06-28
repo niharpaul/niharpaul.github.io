@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
+## About
 
 I am an Assistant Professor in the School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India. My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability.
 
@@ -18,7 +18,7 @@ Prior to joining Azim Premji University, I was a Postdoctoral Investigator at th
 
 My long-term research goal is to improve the understanding and prediction of ocean circulation and climate variability by integrating theory, numerical modeling, ocean observations, and emerging data-driven approaches.
 
-Research Interests
+## Research Interests
 Physical Oceanography
 Geophysical Fluid Dynamics
 Submesoscale Ocean Dynamics
@@ -28,7 +28,8 @@ Ocean Mixing and Tracer Transport
 Numerical Ocean Modeling
 Ocean Observations and Field Experiments
 Climate Variability
-Recent News
+
+## Recent News
 2026 – Joined Azim Premji University as Assistant Professor.
 2026 – Paper accepted in Geophysical Research Letters.
 2025 – Participated in the Indo–US ASTRAL-EKAMSAT oceanographic research cruise.
