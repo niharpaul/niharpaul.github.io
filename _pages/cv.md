@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
-
 A complete and up-to-date version of my curriculum vitae is available below.
 
 📄 **[Download CV](/files/Nihar_Paul_CV.pdf)**
