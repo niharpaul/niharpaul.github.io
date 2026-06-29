@@ -7,16 +7,16 @@ author_profile: true
 
 ## Preprints
 
-**Nihar Paul**, A. Mahadevan (2025).  
+**Nihar Paul**, A. Mahadevan (2025).           
 **Effect of Near-Inertial Pumping on Subduction at an Ocean Front.**  
 arXiv:2511.23460.(under revision in Journal of Physical Oceanography)
 
 ## Journal Articles
 
-K. Mishra, Bishakhdatta Gayen, Kathryn L Gunn, Kathryn L Gunn, **Nihar Paul** (2026). 
-**Tracing the Abyssal Water Pathways in the Indian Ocean.** 
-*Geophysical Research Letters* (accepted). 
-Preprint DOI: <https://doi.org/10.22541/essoar.175138846.68537835>
+K. Mishra, Bishakhdatta Gayen, Kathryn L Gunn, P. N. Vinayachandran, **Nihar Paul** (2026).       
+**Tracing the Abyssal Water Pathways in the Indian Ocean.**           
+*Geophysical Research Letters* (accepted).             
+Preprint DOI: <https://doi.org/10.22541/essoar.175138846.68537835>      
 
 **Nihar Paul**, M. Mathur, J. Sukhatme, J. T. Farrar, D. Sengupta (2026).  
 **Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry.**  
