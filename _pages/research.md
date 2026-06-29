@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 <p align="center">
 <img src="/images/research/overview.jpg" width="900">
 </p>
