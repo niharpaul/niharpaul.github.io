@@ -7,9 +7,11 @@ author_profile: true
 
 ## Preprints
 
-**Nihar Paul**, A. Mahadevan (2025).           
-**Effect of Near-Inertial Pumping on Subduction at an Ocean Front.**  
-arXiv:2511.23460.(under revision in Journal of Physical Oceanography)
+**Nihar Paul**, Amala Mahadevan (2025).
+Near-inertial waves enhance vertical transport at ocean fronts.
+Journal of Physical Oceanography (under revision).
+Preprint DOI: <https://doi.org/10.48550/arXiv.2511.23460>
+
 
 ## Journal Articles
 
