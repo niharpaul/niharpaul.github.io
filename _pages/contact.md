@@ -13,12 +13,13 @@ I welcome inquiries regarding research collaborations, graduate and undergraduat
 
 **Nihar Paul**<br>
 Assistant Professor, <br>
-2nd Floor, Sangama - 209, <br>
+Sangama - 209, <br>
 School of Climate Change and Sustainability, <br>
 Azim Premji University <br>
 Survey No. 66, Burugunte Village, <br>
 Bikkanahalli Main Road, Sarjapura, <br>
-Bengaluru - 562125, Karnataka, India.
+Bengaluru - 562125, <br>
+Karnataka, India.
 
 ---
 
