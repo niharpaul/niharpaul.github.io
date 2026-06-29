@@ -9,8 +9,9 @@ This page is currently under development.
 
 It will feature photographs and highlights from oceanographic field campaigns, research cruises, and observational programs, including:
 
-- Indo–US ASTRAL–EKAMSAT Expedition (2024–2025)
-- Oceanographic field observations in the Arabian Sea
+- Indo–US ASTRAL–EKAMSAT Expedition (2024–2025).
+- Sagar Manjusha Expedition near the mouth of the Godavari River (2023-2024)
+- Oceanographic field observations in the Bay of Bengal
 - CTD and ADCP deployments
 - Shipboard scientific operations
 - Oceanographic instrumentation
