@@ -13,7 +13,7 @@ I welcome inquiries regarding research collaborations, graduate and undergraduat
 
 **Nihar Paul**<br>
 Assistant Professor<br>
-2nd Floor, Sangama<br>
+2nd Floor, Sangama - 209 <br>
 School of Climate Change and Sustainability<br>
 Azim Premji University<br>
 Bengaluru 562125<br>
