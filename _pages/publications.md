@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+**Nihar Paul**, A. Mahadevan (2025).  
+**Effect of Near-Inertial Pumping on Subduction at an Ocean Front.**  
+arXiv:2511.23460.(under revision in Journal of Physical Oceanography)
+
 ## Journal Articles
 
 **Nihar Paul**, M. Mathur, J. Sukhatme, J. T. Farrar, D. Sengupta (2026).  
@@ -38,9 +44,3 @@ DOI: https://doi.org/10.1016/j.dsr2.2019.104684
 **Nihar Paul** (2022).  
 **Stirring and Mixing Driven by Mesoscale Eddies in the Stratified Bay of Bengal.**  
 PhD Thesis, Indian Institute of Science, Bengaluru.
-
-## Preprints
-
-**Nihar Paul**, A. Mahadevan (2025).  
-**Effect of Near-Inertial Pumping on Subduction at an Ocean Front.**  
-arXiv:2511.23460.
