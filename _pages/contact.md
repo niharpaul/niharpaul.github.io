@@ -12,11 +12,11 @@ I welcome inquiries regarding research collaborations, graduate and undergraduat
 ## Academic Address
 
 **Nihar Paul**<br>
-Assistant Professor<br>
+Assistant Professor <br>
 2nd Floor, Sangama - 209 <br>
-School of Climate Change and Sustainability<br>
-Azim Premji University<br>
-Bengaluru 562125<br>
+School of Climate Change and Sustainability <br>
+Azim Premji University <br>
+Bengaluru 562125 <br>
 Karnataka, India
 
 ---
