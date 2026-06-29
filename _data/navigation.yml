@@ -13,6 +13,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Field Work"
+    url: /photos/  
+
   - title: "CV"
     url: /cv/
 
