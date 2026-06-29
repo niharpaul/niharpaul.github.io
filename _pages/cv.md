@@ -30,14 +30,13 @@ A complete and up-to-date version of my curriculum vitae is available below.
   Department of Physical Oceanography  
   Woods Hole Oceanographic Institution (WHOI)  
   Woods Hole, Massachusetts, USA  
-  **2024–2026**  
-  *Mentors:* Dr. Amala Mahadevan and Dr. J. Thomas Farrar
+  **2023–2026**  
 
 * **Postdoctoral Researcher**  
   Geophysical Flows Laboratory  
   Department of Aerospace Engineering  
   Indian Institute of Technology Madras, Chennai, India  
-  **2023–2024**  
+  **2022–2023**  
   *Mentor:* Prof. Manikandan Mathur
 
 * **Project Associate**  
