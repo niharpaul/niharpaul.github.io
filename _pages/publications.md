@@ -29,7 +29,7 @@ Preprint DOI: <https://doi.org/10.48550/arXiv.2511.23460>
 K. Mishra, Bishakhdatta Gayen, Kathryn L Gunn, P. N. Vinayachandran, **Nihar Paul** (2026).       
 **Tracing the Abyssal Water Pathways in the Indian Ocean.**           
 *Geophysical Research Letters* (accepted).             
-Preprint DOI: <https://doi.org/10.22541/essoar.175138846.68537835>      
+Preprint DOI: <https://doi.org/10.22541/essoar.175138846.68537835/v1>      
 
 **Nihar Paul**, M. Mathur, J. Sukhatme, J. T. Farrar, D. Sengupta (2026).  
 **Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry.**  
