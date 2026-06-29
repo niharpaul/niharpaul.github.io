@@ -7,8 +7,8 @@ author_profile: true
 
 ## Manuscripts in Preparation     
 
-**Nihar Paul**, J. T. Farrar.                         
-*Effect of 20–50-Day Variability on Upwelling in the Arabian Sea (2026).*                      
+**Nihar Paul**, J. T. Farrar (2026).                         
+*Effect of 20–50-Day Variability on Upwelling in the Arabian Sea.*                      
 Manuscript in preparation for submission to *Journal of Geophysical Research: Oceans*. 
 
 ---
