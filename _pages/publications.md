@@ -48,8 +48,8 @@ DOI: <https://doi.org/10.1016/j.dsr2.2019.104684>
 
 ## Thesis
 
-**Nihar Paul** (2022).
-Stirring and Mixing Driven by Mesoscale Eddies in the Stratified Bay of Bengal.                      
+**Nihar Paul** (2022).                                   
+**Stirring and Mixing Driven by Mesoscale Eddies in the Stratified Bay of Bengal.**                      
 Ph.D. Thesis, Centre for Atmospheric and Oceanic Sciences,                                               
 Indian Institute of Science, Bengaluru, India.                              
 Thesis: <https://etd.iisc.ac.in/handle/2005/5855>                                      
