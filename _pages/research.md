@@ -22,7 +22,7 @@ My long-term research goal is to improve the understanding and prediction of oce
 ## 🌊 Submesoscale Ocean Dynamics
 
 <p align="center">
-<img src="/images/research/submesoscale.jpg" width="700">
+<img src="/images/research/submesoscale.png" width="700">
 </p>
 
 Submesoscale fronts and filaments regulate vertical exchange, restratification, tracer transport, and upper-ocean circulation. My research investigates the mechanisms governing frontogenesis, ageostrophic circulations, and multiscale interactions between mesoscale and submesoscale motions.
