@@ -11,7 +11,7 @@ I teach undergraduate and postgraduate courses in physical oceanography, climate
 
 # Current Courses
 
-## The World of Computing (FOU-117)
+# The World of Computing (FOU-117)
 
 **Semester:** August–December 2026  
 **Level:** Undergraduate Foundation Course
@@ -22,7 +22,7 @@ An introductory course designed to develop computational thinking through hands-
 
 ---
 
-## Quantitative Environmental Research Methods and Biostatistics (EVS-204)
+# Quantitative Environmental Research Methods and Biostatistics (EVS-204)
 
 **Semester:** August–December 2026  
 **Level:** Undergraduate
@@ -39,9 +39,9 @@ I supervise undergraduate and postgraduate research projects in
 
 - Physical Oceanography and Climate Dynamics
 - Ocean Observations and Modeling
-- Environmental Data Science application to weather derivatives
+- Environmental Data Science Applications to Weather Derivatives
 
-Interested students are encouraged to contact me with a brief statement of research interests and an updated CV.
+Interested students are encouraged to contact me with a brief statement of research project interests and an updated CV.
 
 ---
 
