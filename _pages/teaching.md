@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
 I teach undergraduate and postgraduate courses in climate science, physical oceanography, and computational methods. My teaching emphasizes scientific inquiry, computational thinking, and project-based learning by integrating theory, numerical modeling, data analysis, and real-world environmental applications.
 
 ---
