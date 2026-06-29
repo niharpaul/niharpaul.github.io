@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-**Nihar Paul**, Amala Mahadevan (2025).                           
+**Nihar Paul**, Amala Mahadevan (2026).                           
 Near-inertial waves enhance vertical transport at ocean fronts.                   
 Journal of Physical Oceanography (under revision).                 
 Preprint DOI: <https://doi.org/10.48550/arXiv.2511.23460>          
