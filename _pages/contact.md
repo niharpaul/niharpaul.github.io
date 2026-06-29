@@ -5,9 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
-
-I welcome enquiries regarding research collaborations, graduate and undergraduate student projects, visiting scholars, invited seminars, and scientific discussions in physical oceanography, climate dynamics, and environmental data science.
+I welcome inquiries regarding research collaborations, graduate and undergraduate student projects, visiting scholars, invited seminars, and scientific discussions in physical oceanography, climate dynamics, and environmental data science.
 
 ---
 
@@ -15,7 +13,7 @@ I welcome enquiries regarding research collaborations, graduate and undergraduat
 
 **Nihar Paul**  
 Assistant Professor 
-Sangama 2nd Floor
+2nd Floor, Sangama 
 School of Climate Change and Sustainability  
 Azim Premji University  
 Bengaluru 562125  
@@ -25,6 +23,6 @@ Karnataka, India
 
 ## Email
 
-**Primary:** nihar.paul@apu.edu.in' nihar.paul@azimpremjifoundation.org
+**Primary:** nihar.paul@apu.edu.in; nihar.paul@azimpremjifoundation.org
 
 ---
