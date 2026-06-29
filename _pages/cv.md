@@ -53,7 +53,7 @@ A complete and up-to-date version of my curriculum vitae is available below.
 * **Ph.D. in Climate Science**  
   Centre for Atmospheric and Oceanic Sciences (CAOS)  
   Indian Institute of Science (IISc), Bengaluru, India  
-  **2015–2022**
+  **2016–2022**
 
 * **M.Tech. in Climate Science**  
   Centre for Atmospheric and Oceanic Sciences (CAOS)  
