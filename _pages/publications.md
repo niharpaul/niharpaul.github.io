@@ -5,109 +5,42 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+## Journal Articles
 
-<div class="publication-header">
-
-# Publications
-
-My research combines **physical oceanography, numerical modeling, observations,
-and theory** to investigate multiscale ocean dynamics, including
-submesoscale processes, near-inertial waves, equatorial dynamics,
-and Indian Ocean variability.
-
-{% if author.googlescholar %}
-<p>
-<a class="btn btn--primary" href="{{author.googlescholar}}">
-Google Scholar
-</a>
-
-<a class="btn btn--primary" href="{{author.orcid}}">
-ORCID
-</a>
-
-<a class="btn btn--primary" href="{{author.github}}">
-GitHub
-</a>
-</p>
-{% endif %}
-
-</div>
+**Nihar Paul**, M. Mathur, J. Sukhatme, J. T. Farrar, D. Sengupta (2026).  
+**Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry.**  
+*Geophysical Research Letters.*  
+DOI: https://doi.org/10.1029/2024GL113884
 
 ---
 
-## Research Areas
-
-<div class="research-tags">
-
-<span class="tag">Submesoscale Dynamics</span>
-
-<span class="tag">Near-Inertial Waves</span>
-
-<span class="tag">Internal Waves</span>
-
-<span class="tag">Equatorial Waves</span>
-
-<span class="tag">Indian Ocean</span>
-
-<span class="tag">Marine Heat Waves</span>
-
-<span class="tag">Ocean Modeling</span>
-
-<span class="tag">Environmental Data Science</span>
-
-</div>
+**Nihar Paul**, J. Sukhatme, B. Gayen, D. Sengupta (2023).  
+**Eddy-Freshwater Interaction Using Regional Ocean Modeling System in the Bay of Bengal.**  
+*Journal of Geophysical Research: Oceans*, **128**(4), e2022JC019439.  
+DOI: https://doi.org/10.1029/2022JC019439
 
 ---
 
-## Featured Publications
-
-Choose your 3–4 strongest papers and include an image,
-summary, DOI, PDF, GitHub, and BibTeX.
-
-Example:
-
-<table>
-
-<tr>
-
-<td width="32%">
-
-<img src="/images/front_transport.jpg">
-
-</td>
-
-<td>
-
-### Near-inertial wave interaction with submesoscale fronts
-
-A process study demonstrating how wave–vortex interactions
-enhance convergence, divergence, and vertical tracer transport.
-
-**Journal**
-
-Geophysical Research Letters
-
-**Links**
-
-[PDF]
-
-[DOI]
-
-[Code]
-
-</td>
-
-</tr>
-
-</table>
+**Nihar Paul**, J. Sukhatme, D. Sengupta, B. Gayen (2021).  
+**Eddy Induced Trapping and Homogenization of Freshwater in the Bay of Bengal.**  
+*Journal of Geophysical Research: Oceans*, **126**(6), e2021JC017180.  
+DOI: https://doi.org/10.1029/2021JC017180
 
 ---
 
-# Complete Publication List
+**Nihar Paul**, J. Sukhatme (2020).  
+**Seasonality of Surface Stirring by Geostrophic Flows in the Bay of Bengal.**  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **172**, 104684.  
+DOI: https://doi.org/10.1016/j.dsr2.2019.104684
 
-{% for post in site.publications reversed %}
+## Thesis
 
-{% include archive-single.html %}
+**Nihar Paul** (2022).  
+**Stirring and Mixing Driven by Mesoscale Eddies in the Stratified Bay of Bengal.**  
+PhD Thesis, Indian Institute of Science, Bengaluru.
 
-{% endfor %}
+## Preprints
+
+**Nihar Paul**, A. Mahadevan (2025).  
+**Effect of Near-Inertial Pumping on Subduction at an Ocean Front.**  
+arXiv:2511.23460.
