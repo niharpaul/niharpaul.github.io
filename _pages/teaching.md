@@ -33,7 +33,7 @@ This course introduces quantitative research methods, environmental statistics, 
 
 ---
 
-### Student Research
+## Student Research
 
 I supervise undergraduate and postgraduate research projects in
 
@@ -45,6 +45,6 @@ Interested students are encouraged to contact me with a brief statement of resea
 
 ---
 
-### Teaching Philosophy
+## Teaching Philosophy
 
 My teaching philosophy emphasizes curiosity, quantitative reasoning, and learning by doing. I believe students learn best when mathematical concepts are connected with observations, numerical experiments, and real-world environmental problems. My courses integrate lectures with hands-on programming, data analysis, simulations, and collaborative projects, enabling students to develop both conceptual understanding and practical research skills.
