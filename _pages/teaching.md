@@ -9,9 +9,9 @@ I teach undergraduate and postgraduate courses in physical oceanography, climate
 
 ---
 
-# Current Courses
+## Current Courses
 
-# The World of Computing (FOU-117)
+### The World of Computing (FOU-117)
 
 **Semester:** August–December 2026  
 **Level:** Undergraduate Foundation Course
@@ -22,7 +22,7 @@ An introductory course designed to develop computational thinking through hands-
 
 ---
 
-# Quantitative Environmental Research Methods and Biostatistics (EVS-204)
+### Quantitative Environmental Research Methods and Biostatistics (EVS-204)
 
 **Semester:** August–December 2026  
 **Level:** Undergraduate
