@@ -34,9 +34,8 @@ A complete and up-to-date version of my curriculum vitae is available below.
   Geophysical Flows Laboratory  
   Department of Aerospace Engineering  
   Indian Institute of Technology Madras, Chennai, India  
-  **2022–2023**  
-  *Mentor:* Prof. Manikandan Mathur
-
+  **2022–2023**
+  
 * **Project Associate**  
   Divecha Centre for Climate Change  
   Indian Institute of Science (IISc), Bengaluru, India  
