@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="/images/research/overview.jpg" width="900">
+<img src="/images/research/fig_r1.png" width="900">
 </p>
 
 My research focuses on understanding the physical processes governing ocean circulation, upper-ocean mixing, and climate variability across a broad range of spatial and temporal scales. I combine **theoretical analyses**, **high-resolution numerical modeling**, **satellite observations**, and **oceanographic field measurements** to investigate multiscale ocean dynamics and their role in the Earth system.
