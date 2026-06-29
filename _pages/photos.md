@@ -5,8 +5,6 @@ permalink: /photos/
 author_profile: true
 ---
 
-# Field Work
-
 This page is currently under development.
 
 It will feature photographs and highlights from oceanographic field campaigns, research cruises, and observational programs, including:
