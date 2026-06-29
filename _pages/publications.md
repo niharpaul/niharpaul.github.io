@@ -13,9 +13,9 @@ Manuscript in preparation for submission to *Journal of Geophysical Research: Oc
 
 ---
 
-Abhilash Kokkairala, **Nihar Paul**, Debasis Sengupta, Manikandan Mathur (2026).
-Post-Monsoon Winds Drive Deep Near-Inertial Energy Penetration in the Bay of Bengal.
-Manuscript in preparation for submission to *Geophysical Research Letters*.
+Abhilash Kokkairala, **Nihar Paul**, Debasis Sengupta, Manikandan Mathur (2026).                              
+Post-Monsoon Winds Drive Deep Near-Inertial Energy Penetration in the Bay of Bengal.                       
+Manuscript in preparation for submission to *Geophysical Research Letters*.                                
 
 ## Preprints
 
