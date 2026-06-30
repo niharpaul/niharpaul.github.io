@@ -20,7 +20,7 @@ Karnataka, India
 
 📧 **University:** <a href="mailto:nihar.paul@apu.edu.in">nihar.paul@apu.edu.in</a>
 
-📧 **Research:** <a href="mailto:nihar.paul@azimpremjifoundation.org">nihar.paul@azimpremjifoundation.org</a>
+📧 **Foundation:** <a href="mailto:nihar.paul@azimpremjifoundation.org">nihar.paul@azimpremjifoundation.org</a>
 
 🐙 **GitHub:** <a href="https://github.com/niharpaul">github.com/niharpaul</a>
 
