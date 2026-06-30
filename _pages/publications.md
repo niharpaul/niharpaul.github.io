@@ -31,6 +31,8 @@ K. Mishra, Bishakhdatta Gayen, Kathryn L Gunn, P. N. Vinayachandran, **Nihar Pau
 *Geophysical Research Letters* (accepted).             
 Preprint DOI: <https://doi.org/10.22541/essoar.175138846.68537835/v1>      
 
+---
+
 **Nihar Paul**, M. Mathur, J. Sukhatme, J. T. Farrar, D. Sengupta (2026).  
 **Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry.**  
 *Geophysical Research Letters.*  
