@@ -17,7 +17,7 @@ redirect_from:
 
 ## About
 
-I am an Assistant Professor in the [School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India](https://azimpremjiuniversity.edu.in/cccs). My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability. I also serve as a Guest Investigator at the [Woods Hole Oceanographic Institution (WHOI), Massachusetts, USA](https://www.whoi.edu/).
+I am an Assistant Professor in the [School of Climate Change and Sustainability at Azim Premji University, Bengaluru, India](https://azimpremjiuniversity.edu.in/cccs). My research focuses on physical oceanography and geophysical fluid dynamics, with an emphasis on understanding the multiscale physical processes that regulate ocean circulation, mixing, and climate variability. I also serve as a [Guest Investigator](https://www.whoi.edu/profile/nihar.paul/) at the [Woods Hole Oceanographic Institution (WHOI), Massachusetts, USA](https://www.whoi.edu/).
 
 My research combines satellite observations, *in situ* ocean measurements, theoretical analyses, and high-resolution numerical modeling to investigate equatorial wave dynamics, submesoscale ocean dynamics, internal gravity waves in the ocean, and upper-ocean mixing. I am particularly interested in understanding how interactions across scales influence vertical transport, tracer exchange, energy transfer, and regional climate variability in the Indian Ocean.
 
