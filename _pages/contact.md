@@ -9,22 +9,35 @@ I welcome inquiries regarding research collaborations, graduate and undergraduat
 
 ---
 
-## Academic Address
+**Nihar Paul**  
+Assistant Professor  
+School of Climate Change and Sustainability  
+Azim Premji University  
+Survey No. 66, Burugunte Village  
+Bikkanahalli Main Road  
+Sarjapura, Bengaluru 562125  
+Karnataka, India
 
-**Nihar Paul**<br>
-Assistant Professor, <br>
-Sangama - 209, <br>
-School of Climate Change and Sustainability, <br>
-Azim Premji University <br>
-Survey No. 66, Burugunte Village, <br>
-Bikkanahalli Main Road, Sarjapura, <br>
-Bengaluru - 562125, <br>
-Karnataka, India.
+📧 **University:** <a href="mailto:nihar.paul@apu.edu.in">nihar.paul@apu.edu.in</a>
+
+📧 **Research:** <a href="mailto:nihar.paul@azimpremjifoundation.org">nihar.paul@azimpremjifoundation.org</a>
+
+🐙 **GitHub:** <a href="https://github.com/niharpaul">github.com/niharpaul</a>
+
+🔗 **ORCID:** <a href="https://orcid.org/0000-0002-4746-8335">0000-0002-4746-8335</a>
+
+🎓 **Google Scholar:** <a href="https://scholar.google.com/citations?user=BFMsokkAAAAJ">Google Scholar</a>
 
 ---
 
-## Email
+## Location
 
-**Primary:** nihar.paul@apu.edu.in; nihar.paul@azimpremjifoundation.org
-
----
+<iframe
+    src="https://www.google.com/maps?q=Azim+Premji+University+Bengaluru&output=embed"
+    width="100%"
+    height="400"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
