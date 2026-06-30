@@ -8,19 +8,19 @@ author_profile: true
 ## Manuscripts in Preparation     
 
 **Nihar Paul**, J. T. Farrar (2026).                         
-*Effect of 20–50-Day Variability on Upwelling in the Arabian Sea.*                      
+**Effect of 20–50-Day Variability on Upwelling in the Arabian Sea.**                      
 Manuscript in preparation for submission to *Journal of Geophysical Research: Oceans*. 
 
 ---
 
 Abhilash Kokkairala, **Nihar Paul**, Debasis Sengupta, Manikandan Mathur (2026).                              
-Post-Monsoon Winds Drive Deep Near-Inertial Energy Penetration in the Bay of Bengal.                       
+**Post-Monsoon Winds Drive Deep Near-Inertial Energy Penetration in the Bay of Bengal.**                       
 Manuscript in preparation for submission to *Geophysical Research Letters*.                                
 
 ## Preprints
 
 **Nihar Paul**, Amala Mahadevan (2026).                           
-Near-inertial waves enhance vertical transport at ocean fronts.                   
+**Near-inertial waves enhance vertical transport at ocean fronts.**                   
 Journal of Physical Oceanography (under revision).                 
 Preprint DOI: <https://doi.org/10.48550/arXiv.2511.23460>          
 
